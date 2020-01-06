@@ -31,6 +31,7 @@
 
 |Problem|Answer|Solution|
 |-------|------|--------|
+||||
 
 - completed magic-8-ball challenge. [link](https://github.com/sgshubham98/magic-8-ball-flutter)
 - completed xylophone-app. [link](https://github.com/sgshubham98/xylophone-flutter)
@@ -56,3 +57,11 @@
 ### Day 5 ( January 5 , 2020 )
 
 - Solved 2 problems on hackerearth.
+
+### Day 6 ( January 6 , 2020 )
+
+- Solved 1 problem on hackerearth.
+
+|Problem|Answer|Solution|
+|-------|------|--------|
+|Chef and Dynamo|AC|ongoing contest|
