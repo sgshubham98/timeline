@@ -60,8 +60,16 @@
 
 ### Day 6 ( January 6 , 2020 )
 
-- Solved 1 problem on hackerearth.
+- Solved 4 problem on hackerearth.
 
 |Problem|Answer|Solution|
 |-------|------|--------|
 |Chef and Dynamo|AC|ongoing contest|
+
+### Day 7 ( January 7 , 2020 )
+
+- Solved 4 problem on hackerearth.
+
+|Problem|Answer|Solution|
+|-------|------|--------|
+|Doraemon|AC|ongoing contest|
