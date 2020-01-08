@@ -68,8 +68,16 @@
 
 ### Day 7 ( January 7 , 2020 )
 
-- Solved 4 problem on hackerearth.
+- Solved 5 problem on hackerearth.
 
 |Problem|Answer|Solution|
 |-------|------|--------|
 |Doraemon|AC|ongoing contest|
+
+### Day 8 ( January 8 , 2020 )
+
+- Solved 4 problem on hackerearth.
+
+|Problem|Answer|Solution|
+|-------|------|--------|
+||||
