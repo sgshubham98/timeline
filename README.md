@@ -3,8 +3,8 @@
 ## Goals
 
 **Competitive Programming**
-- [ ] Increase [CodeChef] (https://www.codechef.com/users/sgshubham98) rating to 1700.
-- [ ] Increase [Codeforces](https://codeforces.com/profile/RajatAgrawal) rating to 1500.
+- [ ] Increase [CodeChef](https://www.codechef.com/users/sgshubham98) rating to 1700.
+- [ ] Increase [Codeforces](https://codeforces.com/profile/sgshubham98) rating to 1500.
 
 **Learning Goals**
 - [ ] Flutter
