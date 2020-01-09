@@ -76,8 +76,13 @@
 
 ### Day 8 ( January 8 , 2020 )
 
-- Solved 4 problem on hackerearth.
+- Solved 1 problem on hackerearth.
 
 |Problem|Answer|Solution|
 |-------|------|--------|
 ||||
+
+### Day 9 ( January 9 , 2020 )
+
+- Solved 2 problem on hackerearth and 4 on CodeChef.
+- Watched some flutter lectures of above mentioned course.
