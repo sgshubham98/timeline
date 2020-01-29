@@ -59,6 +59,6 @@
 |26|||
 |27|Flutter BootCamp|[view](https://github.com/dsckiet/flutter-bootcamp)|
 |28|Flutter BootCamp|[view](https://github.com/dsckiet/flutter-bootcamp)|
-|29|||
+|29|Flutter BootCamp|[view](https://github.com/dsckiet/flutter-bootcamp)|
 |30|||
 |31|||
